@@ -12,3 +12,5 @@ imbalanced-learn
 optuna
 pydantic
 groq
+openpyxl
+xlrd
