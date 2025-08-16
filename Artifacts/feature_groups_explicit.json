@@ -1,0 +1,32 @@
+{
+  "demographic": [
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents"
+  ],
+  "behavioral": [
+    "tenure",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies"
+  ],
+  "financial": [
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod",
+    "MonthlyCharges",
+    "TotalCharges"
+  ],
+  "excluded": [
+    "customerID",
+    "Churn"
+  ],
+  "other_uncategorized": []
+}
